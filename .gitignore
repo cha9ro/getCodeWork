@@ -130,3 +130,8 @@ dmypy.json
 
 # VS code
 .vscode/
+
+# Any movie formats
+*.mp4
+*.mov
+*.gif
