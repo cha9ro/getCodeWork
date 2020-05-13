@@ -2,11 +2,11 @@ from moviepy.editor import *
 
 #  ---- Parameters ----
 
-inputFile = 'input.mov'
-outputFile = 'output.gif'
-startT = (0,10.00)
-endT = (0,10.80)
-resize = 0.1
+inputFile = '~/resource/input.mov'
+outputFile = '~/resource/output.gif'
+startT = (0,11.00)
+endT = (0,12.00)
+resize = 0.2
 
 # ---------------------
 

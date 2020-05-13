@@ -3,8 +3,8 @@ from moviepy.editor import *
 # ----- Parameters ---------
 
 # files
-inputFilePath = './input.mp4'
-outputFilePath = './output.mp4'
+inputFilePath = './resource/input.mp4'
+outputFilePath = './resource/output.mp4'
 
 # crop range
 upperLeftPoint = [0,0]
