@@ -128,9 +128,6 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# VS code
-.vscode/
-
 # Any movie formats
 *.mp4
 *.mov
