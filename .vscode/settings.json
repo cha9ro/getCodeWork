@@ -1,5 +1,8 @@
 {
   "cSpell.words": ["moviepy", "videofile"],
   "editor.formatOnSave": true,
-  "python.formatting.provider": "black"
+  "python.formatting.provider": "none",
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.black-formatter"
+  }
 }
